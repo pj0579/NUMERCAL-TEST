@@ -3,7 +3,6 @@
 求解一个脉冲函数的先升后降最大区间
 <pre><code>
 public class Test {
-
     public void Sort(int[] number) {
         int[] arry = new int[number.length - 1];
         int count = 0;
@@ -70,7 +69,6 @@ public class Main {
         }
         System.out.print("相对应的10进制数是:"+sum);
     }
-
     public static void main(String[] args) {
         int count=0;
         HashMap m = new HashMap();
@@ -82,7 +80,6 @@ public class Main {
         Scanner scan=new Scanner(System.in);
         String test=scan.next();
         main.numberTen(test,m);
-
     }
 }
 </code></pre>
