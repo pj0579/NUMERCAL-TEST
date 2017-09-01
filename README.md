@@ -51,7 +51,8 @@ public class Test {
 }
 </code></pre>
 2.
-a对应0 z对应25 26进制数  输出二十六进制对应的10进制数<br/>
+a对应0 z对应25 26进制数  输出二十六进制对应的10进制数<br/> 
+    <pre><code>          
     public class Main {
     public void numberTen(String s, HashMap map) {
         char[] c= s.toCharArray();
@@ -74,3 +75,4 @@ a对应0 z对应25 26进制数  输出二十六进制对应的10进制数<br/>
         main.numberTen(test,m);
         }
         }
+        </code></pre>
