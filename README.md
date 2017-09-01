@@ -1,6 +1,7 @@
 # test
 笔试题
 求解一个脉冲函数的先升后降最大区间
+<pre><code>
 public class Test {
 
     public void Sort(int[] number) {
@@ -49,7 +50,7 @@ public class Test {
         test.Sort(arry);
     }
 }
-
+</pre></code>
 2.
 a对应0 z对应25 26进制数  输出二十六进制对应的10进制数
 
@@ -59,7 +60,7 @@ a对应0 z对应25 26进制数  输出二十六进制对应的10进制数
 
 
 
-
+<pre><code>
 public class Main {
     public void numberTen(String s, HashMap map) {
         char[] c= s.toCharArray();
@@ -84,3 +85,4 @@ public class Main {
 
     }
 }
+</code></pre>
