@@ -49,16 +49,9 @@ public class Test {
         test.Sort(arry);
     }
 }
-</pre></code>
+</code></pre>
 2.
 a对应0 z对应25 26进制数  输出二十六进制对应的10进制数
-
-
-
-
-
-
-
 <pre><code>
 public class Main {
     public void numberTen(String s, HashMap map) {
